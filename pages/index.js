@@ -37,7 +37,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate examplessss Next.js projects.</p>
+            <p>Discover and deploy boilerplate examplsssessss Next.js projects.</p>
           </a>
 
           <a
